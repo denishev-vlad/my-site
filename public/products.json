@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Смартфон SuperPhone 15",
+    "category": "Связь",
+    "price": 89000,
+    "image": "/img/phone.png"
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук DevBook Pro",
+    "category": "Компьютеры",
+    "price": 145000,
+    "image": "/img/laptop.png"
+  },
+  {
+    "id": 3,
+    "name": "Телевизор UltraView 4K",
+    "category": "ТВ и Аудио",
+    "price": 55000,
+    "image": "/img/tv.png"
+  }
+]
